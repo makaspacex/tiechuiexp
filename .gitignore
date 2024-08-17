@@ -3,7 +3,7 @@
 run_*/
 run/
 runtime/
-
+.DS_Store
 *.nc
 *.csv
 
