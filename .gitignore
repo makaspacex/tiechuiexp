@@ -6,7 +6,7 @@ runtime/
 .DS_Store
 *.nc
 *.csv
-
+*.mat
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
